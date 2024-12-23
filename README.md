@@ -20,7 +20,7 @@ FIRST Download
 
 7.Run the script http://localhost/Event_Management_System
 
-
+8.to access admin page http://localhost/Event_Management_System/admin/login.php
 **LOGIN DETAILS** 
 Admin
 user: admin
